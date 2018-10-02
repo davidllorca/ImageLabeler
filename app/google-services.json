@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "188679723972",
+    "firebase_url": "https://tensorflow-labeler.firebaseio.com",
+    "project_id": "tensorflow-labeler",
+    "storage_bucket": "tensorflow-labeler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188679723972:android:931a3c5db0f215af",
+        "android_client_info": {
+          "package_name": "com.example.imagelabeler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188679723972-lmo054hm05a6q7ss22i3h1abtufcht4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjuQFIa4EWSWD7-c4_6_jr1Uh5MItYJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188679723972:android:1745af4c9c380512",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit_custommodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188679723972-lmo054hm05a6q7ss22i3h1abtufcht4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjuQFIa4EWSWD7-c4_6_jr1Uh5MItYJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
